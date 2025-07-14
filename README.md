@@ -1,27 +1,28 @@
 <!-- GitHub Profile README.md -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=I+AM+L.+%F0%9F%91%8B;Engineer+%7C+Analyst+%7C+Trader;Certified+Full+Stack+Developer;System-First+%7C+Impact-Always" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=I+AM+L.+%F0%9F%91%8B;Qualified+Industrial+Engineer;Certified+Full+Stack+Developer;Engineer+%7C+Analyst+%7C+Trader;Flask+%7C+Power+BI+%7C+GitHub+Dev" alt="Typing SVG" />
 </h1>
 
 ---
 
 ### ⚙️ About Me
 
-💡 **"I AM L."** — a systems thinker, relentless learner, and **certified full-stack developer**  
-with a mission to engineer intelligence into everything.
+💡 **"I AM L."** — a **Qualified Industrial Engineer**, systems thinker, and  
+**certified full-stack developer** with a mission to engineer intelligence into everything.
 
 - 🧠 **Industrial Engineering + AI**
 - 📊 **Data Analytics** | Power BI | Excel | Python
 - 💹 **Forex Systems & Automation**
-- 💻 **Web Dev** | Flask | HTML | CSS | Git
-- 🧬 Passionate about building **AI-powered tools** that make real-world impact.
+- 💻 **Web Dev** | Flask | HTML | CSS | GitHub
+- 🧬 Passionate about building **AI-powered tools** that make real-world impact
 
 ---
 
 ### 📜 Certified In
 
 - 🏆 **Full Stack Development** (FNB App Academy x ITVarsity – 32 Credits)
+- 🎓 **Bachelor of Engineering (Industrial)** — Class of 2024
 - 🧩 **Simulation & AI Research** (Urban Traffic, Healthcare, SLAM)
 
 ---
@@ -34,6 +35,7 @@ with a mission to engineer intelligence into everything.
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
@@ -58,10 +60,16 @@ with a mission to engineer intelligence into everything.
 
 ---
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight" width="48%" />
+</p>
+
+---
+
 ### 💬 Quote I Live By
 
 > “Jack of all trades, **Master of most** — one system at a time.”  
 > – **I AM L.**
-
----
-
