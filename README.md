@@ -55,8 +55,8 @@
 |-----------|-------------|-------|
 | RL Traffic Optimizer | Reduced urban congestion using DQN & SUMO | Python, Stable-Baselines3 |
 | Forex Trading Tool | GUI for MT5 with trade overlays & control buttons | MQL5, Python |
-| Interactive Portfolio | Modern dev portfolio showcasing my journey | HTML, CSS, GitHub Pages |
-| Telehealth UX Design | Final-year research for digital clinic systems | Simio, Power BI, Excel |
+| Interactive Portfolio | Modern dev portfolio showcasing my journey | HTML, CSS,Js, GitHub Pages |
+| Telehealth UX Design | Final-year research for digital clinic systems | Simio, Power BI, Excel, Python, CSS,JS |
 
 ---
 
