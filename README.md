@@ -81,12 +81,4 @@
 
 ---
 
-### 🧠 Let’s Connect
 
-🚀 Available for collaboration on:
-- 🔍 Data-Driven Projects
-- 📈 Simulation & AI Optimization
-- 💡 Smart Web Tools & Dashboards  
-🔗 [LinkedIn](https://www.linkedin.com/in/yourusername) | [Portfolio](https://yourportfolio.site) | [GitHub](https://github.com/jdoohickey)
-
----
