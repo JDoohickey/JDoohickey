@@ -50,7 +50,7 @@
 - 📚 Deep Dive into **Deep RL + Sim-to-Real Robotics**
 - 📈 Mastering **Business Intelligence Systems**
 - ✍🏾 Authoring a metaphysical book: *Soul, Suffering & Reincarnation*
-- 💡 Merging **Engineering Logic** with **Spiritual Curiosity**
+- 💡 Merging **Engineering Logic** with **Everyday Life**
 
 ---
 
