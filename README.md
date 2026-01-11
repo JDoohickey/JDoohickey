@@ -226,12 +226,11 @@ PRINCIPLES = {
 - [ ] Contribute to open-source project
 - [ ] Master cloud deployment (AWS)
 
-### 2025 Goals
+### 2026 Goals
 1. Launch personal engineering-tech blog
 2. Develop SaaS for process optimization
 3. Achieve Lean Six Sigma Green Belt
 4. Build 3 major portfolio projects
-5. Mentor 2 aspiring developer-engineers
 
 ---
 
@@ -246,8 +245,7 @@ I'm actively seeking:
 
 ### 📫 Connect With Me:
 - 📧 Email: lj.socialMedia07@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/johnm-profile](https://linkedin.com/in/johnm-profile)
-- 🌐 Portfolio: [johnm-portfolio.dev](https://johnm-portfolio.dev)
+- 💼 LinkedIn: [linkedin.com/in/johnm-profile](www.linkedin.com/in/johnlj)
 
 ---
 
