@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-Industrial Engineer turned Full Stack Developer with a passion for building intelligent systems that solve real-world problems. I combine engineering rigor with cutting-edge tech to create efficient, data-driven solutions.
+Industrial Engineer turning Full Stack Developer with a passion for building intelligent systems that solve real-world problems. I combine engineering rigor with cutting-edge tech to create efficient, data-driven solutions.
 
 ```python
 class JohnM:
