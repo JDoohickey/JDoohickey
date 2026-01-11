@@ -29,8 +29,8 @@ class JohnM:
     
     def build_with(self):
         return {
-            "frontend": ["React", "Flask", "Power BI"],
-            "backend": ["Python", "Node.js", "SQL"],
+            "frontend": ["React", "HTML","CSS", "Power BI"],
+            "backend": ["Python_Flask", "FASTAPI", "SQL"],
             "ai_ml": ["Reinforcement Learning", "Simulation", "SUMO"],
             "tools": ["Git", "Power Query", "SIMIO", "Autodesk Suite"]
         }
