@@ -14,7 +14,7 @@ Industrial Engineer turning Full Stack Developer with a passion for building int
 class JohnM:
     def __init__(self):
         self.education = "BSc Industrial Engineering, University of the Witwatersrand"
-        self.current_role = "Sales Graduate @ Forvia Faurecia"
+        self.current_role = "Graduate Tech Advisor Engineer @ Financial Institution"
         self.learning_path = "Full Stack Development"
         self.specialties = [
             "Process Optimization",
